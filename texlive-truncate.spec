@@ -46,3 +46,16 @@ package options are offered to permit breaks within words.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> 3.6-2
++ Revision: 757138
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 3.6-1
++ Revision: 719809
+- texlive-truncate
+- texlive-truncate
+- texlive-truncate
+
