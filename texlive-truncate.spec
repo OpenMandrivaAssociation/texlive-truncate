@@ -6,7 +6,7 @@
 # catalog-version 3.6
 Name:		texlive-truncate
 Version:	3.6
-Release:	2
+Release:	3
 Summary:	Truncate text to a specified width
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/truncate
