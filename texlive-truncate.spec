@@ -1,6 +1,6 @@
 Name:		texlive-truncate
 Version:	18921
-Release:	1
+Release:	2
 Summary:	Truncate text to a specified width
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/truncate
