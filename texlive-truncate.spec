@@ -3,7 +3,7 @@ Version:	18921
 Release:	2
 Summary:	Truncate text to a specified width
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/truncate
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/truncate
 License:	PD
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/truncate.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/truncate.doc.r%{version}.tar.xz
